@@ -1,0 +1,35 @@
+chera fintesh ba ps yeki nist?
+
+ok 
+hala che hoveri bedam ke rosh berom noghte she?
+
+khob
+display flex midoni chie?
+hesam chi mige 
+
+ye container dade mishe ke yani child hat mese block kenare ham gharar begiran mese ajor taghriban
+ke ye flex direction dare row yani toye yek satr
+column yani toye yek soton 
+row-reverse ham yani toye yek satr baraxs
+vaghti container misazim yani be container position midim va child ha dg position nemikhan chon toye container hastand
+right?yes
+use meaningfull names
+right?ok
+
+body hamishe ye margin va padding defualt dare 
+gahi vaghta ye reset css be project ezafe mikonan ke default haye css ro pak kone
+baseline css ham migan besh
+okay?chom
+css ye defual haee darew ke ma ba reset.css reseteson mikonim 
+ke mozahem nashan
+okay?are
+khob 
+on css ke neveshtam 
+.outerCircle  
+aslan harf nazan
+chera
+maghzam parpar shod
+bow chizi nis ke :D`
+zang bezanam behtare
+bezan telegram khodam
+ok
